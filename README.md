@@ -28,7 +28,7 @@ Personal portfolio website built with **HTML, CSS, and JavaScript** to showcase 
 **Fajar Slamet Aghafianto**  
 Frontend Developer • UI/UX Enthusiast  
 📍 Jakarta, Indonesia  
-📧 fajar@example.com
+📧 fajarsmt123@gmail.com
 
 ---
 
@@ -40,4 +40,4 @@ Frontend Developer • UI/UX Enthusiast
 ## 💡 Setup
 1. Clone repository:
    ```bash
-   git clone https://github.com/fajarajh00/portfolio-fajar.git
+   git clone https://github.com/fajarajh00/UTS_Pem_Web.git
